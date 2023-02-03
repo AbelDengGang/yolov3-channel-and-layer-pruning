@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 import scipy.io as sio
 from PIL import Image
 import os, glob
